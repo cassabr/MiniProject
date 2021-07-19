@@ -1,4 +1,4 @@
-# Project 2 - Exploratory Data Analysis
+# MiniProject 1 - Exploratory Data Analysis
 
 Conducting exploratory analysis on one of the most famous datasets for Machine Learning.
 The iris dataset bring information on 3 types of plants. 
