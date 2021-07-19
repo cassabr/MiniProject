@@ -1,6 +1,7 @@
-
-# MiniProject 2 - Data Stream
+# MiniProject3 - Data Stream
 
 Data Stream from Twitter using MongoDB, Pandas and Scikit Learn.
 
-https://nbviewer.jupyter.org/github/cassabr/Project3/blob/main/Data_Stream.ipynb
+Link:
+https://nbviewer.jupyter.org/github/cassabr/MiniProject/blob/main/MiniProject2/Data_Stream.ipynb
+
