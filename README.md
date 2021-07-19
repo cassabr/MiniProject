@@ -7,12 +7,16 @@ In the case of this dataset, predict the category of a plant based on measuremen
 
 Dataset (available with Scikit-Learn): https://archive.ics.uci.edu/ml/datasets/iris
 
-https://nbviewer.jupyter.org/github/cassabr/Project2/blob/main/Iris_Dataset.ipynb
+Link:
+https://nbviewer.jupyter.org/github/cassabr/MiniProject/blob/main/MiniProject1/Iris_Dataset.ipynb
+
 
 *****************************************************************************************************************************
+
 
 # MiniProject 2 - Data Stream
 
 Data Stream from Twitter using MongoDB, Pandas and Scikit Learn.
 
-https://nbviewer.jupyter.org/github/cassabr/Project3/blob/main/Data_Stream.ipynb
+Link:
+https://nbviewer.jupyter.org/github/cassabr/MiniProject/blob/main/MiniProject2/Data_Stream.ipynb
