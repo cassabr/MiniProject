@@ -7,4 +7,5 @@ In the case of this dataset, predict the category of a plant based on measuremen
 
 Dataset (available with Scikit-Learn): https://archive.ics.uci.edu/ml/datasets/iris
 
-https://nbviewer.jupyter.org/github/cassabr/Project2/blob/main/Iris_Dataset.ipynb
+Link:
+https://nbviewer.jupyter.org/github/cassabr/MiniProject/blob/main/MiniProject1/Iris_Dataset.ipynb
